@@ -1,9 +1,0 @@
-# Dipendenze e file generati
-node_modules/
-dist/
-
-# Configurazione locale, log e file di sistema
-.env
-.env.*
-*.log
-.DS_Store
